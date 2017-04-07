@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_e37f6bd919def87896290ad778918f19fec9ba7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba848619f48f98ca0194611de6816688ec961f0d">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_90e59762b9b01a120502c63156725efa8bb28254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_cae8c55191d971e8371a18981a4309366b4f151d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_fa8ec21ca44437b6720c29711e3cae651e807872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tanvir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_da45f04dce4c64c324c1ab4591016e98b48a80e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_0ceecee9d501b6a49e800f0c337f914f6615f5aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_a1b58d190fba50593318fcbb4a39ca591e078071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_ec940e6d97e9c33a83bbb5613586717c15229c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e58e2735a40062ad50480518c57282f5d1b5c86">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e8fb6195e747b1615d81615d8b82143f35459bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_c5af403eeeeb44f5224f40d766cf34774b57e9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_69a102632ac33185cd187febdaf55f89a3bfc304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Others\WorkSpace\AndroidStudio\WorkSpace\AutoProfileManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_ffad61cbbb35b4f5fa34535bc1c7ed39f34b8bf4\classes.dex" />
+    </item>
+
+</items>
