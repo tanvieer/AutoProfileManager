@@ -16,10 +16,17 @@ public class MyCallReciver extends BroadcastReceiver {
     public static int callCounter = 0;
     private static String oldphoneNumber = "";
     private static String lastState = "";
+   /* DataBaseHelper myDb;
+    public MyCallReciver() {
+        super();
 
+       // myDb = new DataBaseHelper(this);
+    }*/
 
     @Override
     public void onReceive(Context context, Intent intent) {
+
+
 
         if (intent.getStringExtra(TelephonyManager.EXTRA_STATE).equals(TelephonyManager.EXTRA_STATE_RINGING)) {
             // This code will execute when the phone has an incoming call
@@ -54,9 +61,9 @@ public class MyCallReciver extends BroadcastReceiver {
         }
 
 
-       // Log.d("numrcv", "ACTION_PHONE_STATE_CHANGED called = " + TelephonyManager.ACTION_PHONE_STATE_CHANGED);
+        Log.d("numrcv", "ACTION_PHONE_STATE_CHANGED called = " + TelephonyManager.ACTION_PHONE_STATE_CHANGED);
 
-       // Log.d("numrcv", "EXTRA_STATE=  " + intent.getStringExtra(TelephonyManager.EXTRA_STATE));
+        Log.d("numrcv", "EXTRA_STATE=  " + intent.getStringExtra(TelephonyManager.EXTRA_STATE));
     }
 
 
