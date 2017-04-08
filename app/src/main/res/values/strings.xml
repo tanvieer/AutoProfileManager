@@ -9,6 +9,10 @@
         3.If LIGHT less than 10 LUX, profile will be changed to VIBRATE MODE.\n\n
         4.If mobile is in pocket, profile will be changed to VIBRATE MODE.\n\n
         5.If mobile screen is FLIPPED DOWN, profile will be changed to SILENT MODE.\n\n
+        \n
+        MOHAMMAD TANVIR ISLAM\n
+        14-25471-1\n
+
     </string>
 
 </resources>
