@@ -3,4 +3,12 @@
 
     <string name="start">Start Service</string>
     <string name="stop">Stop Service</string>
+    <string name="instruction">
+        \n\n1.Sensors will be activated in every 10sec for 1sec only.\n\n
+        2.If same number calls more than 5 times, profile will be changed to NORMAL MODE.\n\n
+        3.If LIGHT less than 10 LUX, profile will be changed to VIBRATE MODE.\n\n
+        4.If mobile is in pocket, profile will be changed to VIBRATE MODE.\n\n
+        5.If mobile screen is FLIPPED DOWN, profile will be changed to SILENT MODE.\n\n
+    </string>
+
 </resources>
