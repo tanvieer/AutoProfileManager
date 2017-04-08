@@ -23,11 +23,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onStartClicked(View v){
+        MyCallReciver.callCounter = 0;
         startService(myService);
         Toast.makeText(this, "Service Started", Toast.LENGTH_SHORT).show();
     }
 
     public void onStopClicked(View v){
+        MyCallReciver.callCounter = 0;
         stopService(myService);
         Toast.makeText(this, "Service Stopped", Toast.LENGTH_SHORT).show();
     }

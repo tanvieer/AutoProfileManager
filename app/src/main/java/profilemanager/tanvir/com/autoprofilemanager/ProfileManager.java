@@ -162,7 +162,7 @@ public class ProfileManager extends Service {
             myAudioManager.setRingerMode(AudioManager.RINGER_MODE_VIBRATE);
         }
         else if( MyCallReciver.callCounter < 5 && value_AccelarometerZ <5 && myAudioManager.getRingerMode() != AudioManager.RINGER_MODE_SILENT) {
-            myAudioManager.setRingerMode(AudioManager.RINGER_MODE_VIBRATE);
+            myAudioManager.setRingerMode(AudioManager.RINGER_MODE_SILENT);
             Log.d("numrcv", "  PROFILE MANAGER counter2  = " + MyCallReciver.callCounter);
         }
         else if ( value_lightLux>500 && myAudioManager.getRingerMode() != AudioManager.RINGER_MODE_NORMAL){
